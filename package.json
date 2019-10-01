@@ -1,7 +1,7 @@
 {
-  "name": "react-native-radial-gradient",
-  "version": "1.0.5",
-  "description": "Radial gradient library for react native",
+  "name": "@seanpeplinski/react-native-radial-gradient",
+  "version": "1.0.6",
+  "description": "This is a fork of react-native-radial-gradient.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
